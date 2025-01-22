@@ -2,7 +2,7 @@
 E estou sempre buscando me apaerfeiçoar nessa aréa
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcioac)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcio-a-36a650312)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcioac)
 
 ![Blodz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blo0Dyz&langs_count=8&theme=dark)
 
